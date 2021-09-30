@@ -1,0 +1,92 @@
+1,0.9999979734420776,The company's answer to analysts' questions is certainly an exemplary answer.
+1,0.999998927116394,However, the big picture drawn by so-called popular companies was not seen in Samsung Electronics.
+1,0.9999988079071045,The market wants to believe that Samsung may have plans for everything.
+0,0.9999973773956299,Although there is uncertainty in the first half of next year, it will lower its target stock price by about 5% to 100,000 won to reflect uncertainties in the semiconductor industry in the first half of next year.
+0,0.9982503056526184,However, the market's evaluation of Samsung Electronics seems to be too persecuted, with only four companies, including Samsung Electronics, Apple, Aramco, and Amazon, ranking in the top 10 in the world.
+1,0.9999980926513672,Keep the investment opinion 'BUY' BU,000 - BUY's current floating investment target of KRW 5M 6M 12M - 2.5% - 3.7% 33.9% of Samsung Life Insurance's share price, which consists of a 53.2% dividend yield (2021F) daily average trading price of KRW 54,000 for 52 weeks.
+1,0.9999969005584717,The settlement period (December) 2019A 2020A 2021E 2022E 2023E Sales (1 billion won) 230,401236,807 273,384 287,535 303,758 Operating profit (1 billion won) 27,76935,994515655,400 60,089 Net profit (1 billion won) 30,43236,345,654754 (net profit) 30,417,6547548057.4.5 14.4 PBR (Bae) 1.5 2.1 2.0 1.8 1.7 EV/EBITDA (Bae) 4.96.6 5.14.6 4.0 Data: Eugene Investment & Securities 4050607080100110120010,00020,00040,00050,00060,00070,00080,000100,00020.7 20.11 21.3 21.7 Stock prices (left, one)
+0,0.9999628067016602,Compared to the KOSPI index (right, p) swlee6591@eugenefn.com
+1,0.9999990463256836,Samsung Electronics (005930) 2_ Europe Research Center Chart 1.
+1,0.9999984502792358,Samsung Electronics 2Q21
+1,0.9999990463256836,Provisional Performance Review Data: Eugene Investment & Securities.
+1,0.9999988079071045,Table 1.
+1,0.9999970197677612,Comparison of sales, operating profit, and market capitalization of major global companies.
+1,0.999998927116394,Note: Bloomberg 2021
+2,0.9461256265640259,Estimated Consensus Data: Eugene Investment & Securities' previous estimate of $1,2211,1891,1181,1141,1211,121 sales 53.06766.6 65.4 63.7 63.02% -3% semiconductor 18.818.219.02.7 22.72% 20% 20% DP 6.77.87.91% - 6.9IM.4 -5.00% -13%
+1,0.999998927116394,Operating profit 8.112.49.09.412.612.54%
+1,0.9999988079071045,Semiconductor 5.45.53.93.96.97.128% 106% DP 0.30.51.84.13327% IM 2.0 4.5 2.44.32.1.66% -26% CE
+1,0.999984622001648,0.71.81.11.10% -5% HAR-0.12% 0.12% 0.12% -0.12% 0.12%4% 17.6% 5.2% 18.5% IM 9.4% 14.6% IM 14.8% 15.0% 14.3% CE 7.2% 11.1% 6.6% 8.6% 7.9% HAR-5.8% 6.2% 4.6% 4.0% increase/decrease 3.Q20 4Q20 (KRW) 2Q20112Q214816425610 40 160640
+1,0.9999948740005493,Amazon Samsung Electronics Co., Ltd.,Log)
+1,0.9999990463256836,Operating profit ($1 billion, Log)
+1,0.999998927116394,One size =
+2,0.7417885661125183,Market capitalization of Samsung Electronics (005930).
+2,0.9999984502792358,Eugene Research Center _3 2Q review semiconductor by sector: significant improvement in performance in the previous quarter compared to the previous year.
+1,0.9999990463256836,Memory shipments exceed guidance.
+2,0.9999979734420776,Price increases significantly (DRAM + late 10% range, NAND about +10% Cost improvement due to increased shipments and the introduction of micro-processes.
+2,0.9999985694885254,System Semiconductor Business Department also improved its performance due to early normalization of Austin (but not significantly
+1,0.9999988079071045,) Display:
+0,0.9999971389770508,Shipment volume decreased due to small and medium-sized off-season, but improved compared to the previous quarter due to overall sales price rise and one-time profits.
+0,0.9999994039535522,Large LCDs were affected by seasonal off-season, lack of supply of parts, production disruptions in India and Vietnam due to Corona amid reduced demand for spot phones due to reduced deficit radio: Corona.
+1,0.999991774559021,However, Indian production facilities are currently in normal operation, and Vietnam, where lockdown is at stake, is expected to normalize soon.
+2,0.9999986886978149,Maintaining stronger profitability than expected due to strengthening SCM capabilities, improving marketing efficiency, and contributing to wearable products despite reduced sales.
+1,0.999998927116394,CE:
+2,0.9999961853027344,Continuing demand for pent-up.
+2,0.9999986886978149,Continuing good performance due to increased sales of premium products: The dollar, paid, and emerging slightly strengthened against the won (average 1,114 won in the first quarter and average 1,121 won in the second quarter of the won), which is estimated to have had a positive impact of about 200 billion won compared to the previous quarter.
+2,0.9999986886978149,It is expected that parts markets will be good in the second half of each sector, and sets will continue to be solid in profitability.
+1,0.9999979734420776,However, there is a possibility of some parts being disrupted and uncertainty due to Corona.
+1,0.9999988079071045,New memory.
+2,0.9999985694885254,Continuous growth in server/mobile demand due to the expansion of CPU recruitment and the launch of new smartphone products.
+2,0.9999891519546509,Bit shipments are expected to increase due to the acceleration of DRAM 15 nanometers and NAND 6th generation 128-speed conversion.
+2,0.9999984502792358,Non-memory: Demand for system LSI products increases due to entry into the peak smartphone season.
+2,0.9999986886978149,Poundry plans to accelerate growth in the second half of the year by expanding its supply capacity of S5 in Pyeongtaek: Expecting improvement in small and medium-sized panel performance by launching a new product.
+1,0.9999990463256836,QD is expected to start production within this year.
+2,0.9999986886978149,Wireless: Strategic network to strengthen lineups such as foldable and mid- to low-priced 5G expansion, and expand wearable sales: Goal of expanding major orders such as North America and expanding new orders such as Europe.
+1,0.9999990463256836,Samsung Electronics (005930) 4_ Eugene Research Center Major Product Data Point DRAM:
+1,0.9999020099639893,Early 10% of BitGros in the second quarter, early 10% of ASP demand in the second quarter, mid 20% of annual demand in Samsung's market level, NAND: Late 2nd quarter, and early 10% of ASP demand in the third quarter.
+1,0.9999983310699463,About 40% of annual demand, Samsung's market-level DP: Mid-90% of panel OLED sales in the second quarter.
+0,0.999998927116394,OLED sales decreased in the second half of the year IM: 60 million mobile phones and 8 million tablets in the second quarter.
+1,0.9999991655349731,$233 ASP.
+2,0.9999974966049194,Mobile phones increased in the middle of 90% of smartphones in the third quarter, and tablets in the previous quarter of tablets.
+2,0.9999983310699463,ASP rises, 90 percent of smartphones in mid-to-late TV: Sales decreased by late 10% in the second quarter, and increased by late single digits in the third quarter.
+0,0.9997585415840149,Conference call Q&A summary Q) Samsung Electronics' technological competitiveness controversy?
+2,0.9999982118606567,A) Proof of overwhelming competitiveness with 128-layer single stack etching technology already in 3D NAND.
+1,0.9999991655349731,Stack height and efficiency are more important than simple layer numbers.
+1,0.9999986886978149,HKMG DDR5 technology is in preparation for the future, and it is necessary to review whether it will be applied to actual mass production.
+2,0.9999455213546753,EUV 5 layer is applied to 14 nano DDR5, resulting in crossover with existing technologies in terms of cost.
+1,0.9999988079071045,Q) Server demand forecast and inventory for the second half of the year?
+1,0.9999988079071045,A)
+2,0.9999985694885254,The demand for servers in the second quarter is solid.
+2,0.9999986886978149,It is expected that the second half will be solid due to high capacity and expansion of cloud investment.
+2,0.9999986886978149,Server demand is expected to grow by about 8% this year.
+2,0.999997615814209,It is difficult to accurately grasp the level of inventory of customers, but demand for inventory construction is expected to continue to increase.
+0,0.9999856948852539,Memory providers' inventory of DRAM and NAND will remain at a fairly low level.
+1,0.9999939203262329,Q) NAND technology roadmap?
+1,0.999998927116394,Detailed roadmaps are prepared 10 years after the 6th and 7th generations in 2022.
+2,0.9999983310699463,Based on the single stack 128-stage etching technology, 176-stage is also improving yield at a high speed.
+1,0.999998927116394,Samsung Electronics (005930) Eugene Research Center _5 Q) Influence of COVID-19 in India, Vietnam?
+1,0.9999988079071045,A)
+1,0.9999988079071045,The Indian factory manages employees at risk of COVID-19.
+1,0.9999972581863403,Dualization of core parts production overseas.
+1,0.9999971389770508,Limited production impact due to partial closure of each line.
+1,0.9999463558197021,Vietnam is affected by the suspension of its partners due to the COVID-19 lockdown, but it can be dualized into India and Korea.
+1,0.9999984502792358,Q)
+1,0.9285771250724792,The cost burden of the home appliance business due to the increase in CE raw material prices and logistics costs?
+2,0.9999986886978149,A) Improving mix by expanding high value-added sales.
+2,0.9999830722808838,Securing competitiveness online and B2B in distribution.
+2,0.9999974966049194,Securing cost competitiveness by releasing modular products.
+2,0.9999985694885254,Improving operation efficiency by analyzing competitiveness by manufacturing base and rearranging supplies.
+1,0.9999984502792358,Q)
+1,0.9999988079071045,What about mass production of QD displays?
+1,0.999988317489624,A) Bringing in the first quarter.
+1,0.9999982118606567,Current ramp-up.
+1,0.999998927116394,Prototype test process.
+1,0.9999988079071045,Plan to mass-produce in the fourth quarter.
+1,0.9999988079071045,We are preparing to respond to all TV monitors at the request of QD customers.
+1,0.9999985694885254,We are discussing when to launch the market.
+1,0.999998927116394,Expansion of Capa will proceed according to market conditions.
+0,0.9999994039535522,Q) Concerns about deteriorating SOC competitiveness.
+2,0.9999986886978149,Strategy to improve SOC competitiveness.
+1,0.9999991655349731,Especially the AP strategy?
+1,0.9999940395355225,A) Visible performance expectations from the second half of the year.
+2,0.9999985694885254,Strengthen mobile competitiveness by introducing new GPUs.
+1,0.9999762773513794,Mid- and low-priced SOCs are also promoting new customers.

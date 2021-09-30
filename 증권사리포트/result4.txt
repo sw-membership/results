@@ -1,0 +1,15 @@
+1,0.999998927116394,Samsung Electronics (005930) BUY (Mainain) stock price (9/14) KRW 76,600 is KRW 95,000 Semiconductor Analyst Park Yooak02)3787-5063/yuak.
+1,0.999998927116394,A total of 190-200 trillion won is expected to be invested in the semiconductor sector of pak@kiwoom.com Samsung Electronics over three years.
+2,0.9999356269836426,CapEx is expected to surge by DRAM
+2,0.9999982118606567,+14%, NAND +27%, and foundry +84% over the past three years to 34 trillion won, NAND 35 trillion won, and Foundry 41 trillion won.
+2,0.9999984502792358,Although NAND's slowdown at the end of this year could expand short-term stock price volatility, expectations for DRAM turnaround, Foundry and NAND investment expansion are expected to be reflected from the end of this year.
+1,0.9999953508377075,Stock Data KOSPI (9/14) 3,148.83pt market capitalization of KRW 4,572,853pt, the highest stock price of KRW 91,600, the highest/lowest price fluctuation of -16.2% 34.8%, the absolute relative 1.6% 4.0%6M -7.9% -10.01Y 74.2%.
+1,0.9999977350234985,15.7% Company Data issuance average of KRW 5,9679.0-200 trillion won is expected to be invested.
+2,0.9999978542327881,CapEx 110 to 120 trillion won, R&D 40 trillion won, and M&A 40 to 50 trillion won, respectively.
+2,0.9999969005584717,DRAM will invest 34 trillion won in additional EUV purchases and DDR5 mass production, and a total of 35 trillion won will be invested in NAND to prepare for the growth of 8th generation V-NAND mass production and eSSD demand.
+1,0.9999942779541016,B-Memory is expected to invest a total of 41 trillion won to operate Foundry's new plant and invest in CIS conversion.
+2,0.9999985694885254,Through this, the technology gap of DRAM will be widened again, the market share of the NAND sector will be expanded, and Foundry will succeed in securing new customers.
+2,0.9999986886978149,In particular, Foundry believes that the forward demand, which has been limited to Mobile, will begin to diversify to HPC and profitability will begin to improve.
+2,0.999996542930603,Samsung Electronics' stock price, which is expected to expand concerns over NAND supply and demand, has continued to adjust since the beginning of the year due to slowing demand ahead and concerns over entry into the DRAM industry into the downturn.
+0,0.999998927116394,Although DRAM's concerns over a slowdown in the industry have already been reflected in the current stock price level, the company believes that NAND's sharp slowdown at the end of this year will expand short-term volatility in stock prices.
+2,0.9999985694885254,Therefore, it is desirable for Samsung Electronics to approach investment with a little longer breath, and as it exceeds the mid-4Q21, DRAM's turnaround and Foundry·NAND's expansion of equipment investment will serve as a turning momentum for stock prices to rise.

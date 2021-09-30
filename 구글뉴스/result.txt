@@ -1,0 +1,266 @@
+1,0.9999986886978149,SEOUL (Reuters) - Samsung Electronics (OTC:SSNLF)
+2,0.9999986886978149,Co Ltd likely saw a 38% surge in profit for the April-June quarter thanks to strong chip prices and demand spurred by a pandemic-led consumer appetite for electronics as well as recovering investment in data centres.
+2,0.9999986886978149,Operating profit for the world's biggest memory chip and smartphone maker likely jumped to 11.3 trillion won ($10 billion), according to a Refinitiv SmartEstimate drawn from 20 analysts and weighted toward those who are more consistently accurate.
+0,0.9999629259109497,The South Korean tech giant's strong performance - coming despite it shipping fewer smartphones than in January-March - underscores the stratospheric demand for chips that has depleted stockpiles and filled production capacity.
+2,0.9999985694885254,The result would be up 20% from the first quarter and mark Samsung (KS:005930)'s highest operating income for the second quarter since 2018.
+2,0.9999985694885254,Revenue likely rose 15.4%.
+1,0.9999974966049194,Samsung is scheduled to announce preliminary second-quarter results on Wednesday.
+2,0.9999983310699463,The company's chip division likely benefited from memory chip price hikes that exceeded market estimates, analysts said, while shipments grew as well.
+2,0.9999986886978149,Prices of DRAM chips, widely used in servers, mobile phones and other computing devices, jumped 27% compared to the March quarter, while those of NAND flash chips that serve the data storage market rose 8.6%, according to research provider Trendforce.
+2,0.9999986886978149,Profit also improved at Samsung's chip-contract manufacturing and logic chip design business, partly because operations at its storm-hit Texas factory returned to normal, analysts said.
+2,0.9999986886978149,They estimated the chip division's operating profit in April-June rose about 22% from the year-earlier period to about 6.6 trillion won.
+0,0.9999991655349731,Still, Samsung's smartphone shipments dropped to about 59 million in April-June from about 76 million in the first quarter, according to Shinyoung Investment & Securities, as sales slowed for its latest flagship model, launched in mid-January.
+0,0.9999992847442627,Reduced demand from India, hard hit by the pandemic during the quarter, as well as tight supply for some mobile processor chips may also have affected shipments, analysts said, estimating the mobile business' operating profit at about 2.9 trillion won.
+1,0.9999945163726807,Samsung Electronics vice chairman to leave prison on Friday * Lee still faces two other trials * Decision on company's $17 billion U.S. investment awaits (Adds bullet points, global chip shortage, rivals, Samsung no comment)
+1,0.9974828362464905,By Joyce Lee and Heekyong Yang SEOUL, Aug 9 (Reuters) - Samsung Electronics vice chairman Jay Y. Lee, in jail after convictions for bribery, embezzlement and other charges, has qualified for parole and is expected to leave prison this Friday, South Korea's justice ministry said.
+1,0.9999983310699463,"The decision to grant Samsung Electronics vice chairman Jay Y. Lee parole was the result of a comprehensive review of various factors such as public sentiment and good behavior during detention," the ministry said in a statement on Monday.
+1,0.9999978542327881,Convicted of bribing a friend of former President Park Geun-hye, Lee, 53, has served 18 months of a revised 30 month sentence.
+1,0.9999990463256836,He initially served one year of a five-year sentence from August 2017 which was later suspended.
+1,0.999998927116394,That court decision was then overturned and while the sentence was shortened, he was sent back to jail in January this year.
+0,0.7302665114402771,Support for his parole, both political and public and from the wider business community, had grown amid anxiety that key strategic decisions are not being made at the South Korean tech giant.
+1,0.9999988079071045,Although the day-to-day running of the world's biggest memory chip maker and smartphone manufacturer has not been affected by his absence, company sources say decisions on major investment and M&A projects should only be made by Lee.
+2,0.6750251054763794,In particular, a decision on the location of a $17 billion U.S. plant to produce advanced logic chips awaits his return at a time when there is a global chip shortage and rivals like TSMC and Intel Corp are making large investments.
+2,0.9999980926513672,The Federation of Korean Industries, a big business lobby, said in a statement that it welcomed the decision to grant Lee parole.
+1,0.9585440158843994,"If the investment clock, currently at standstill, is not wound up quickly, we could lag behind global companies such as Intel and TSMC and lose the Korean economy's bread and butter at a moment's notice.
+1,0.9999984502792358," Lee still needs the Justice Minister to approve his return to work as the law bars persons with certain convictions from working for companies related to those convictions for five years.
+1,0.9999988079071045,He is likely to get that, legal experts say, due to circumstances such as the amount deemed embezzled having been repaid.
+1,0.9999991655349731,Samsung Electronics declined to comment.
+1,0.9999983310699463,HIGH SUPPORT South Korea's biggest conglomerates are still owned and controlled by their founding families and there is little precedence for handing over the reins to outsiders even when a senior family member has been jailed.
+0,0.9996849298477173,While polls showed high public support of around 70% for Lee's parole, many civic groups have been opposed, accusing the administration of President Moon Jae-In of hypocrisy after it came to power on a wave of anger at corruption among South Korea's political and business elite.
+2,0.9999266862869263,"If the administration that benefited grants preferential parole for a chaebol owner, we must reconsider the very existence of the Moon Jae-in administration," said Kim Ju-ho, official at activist group People's Solidarity for Participatory Democracy, using the local term for large family-owned businesses.
+1,0.9999991655349731,Lee's legal woes have not been confined to the bribery conviction.
+1,0.9999983310699463,He is also on trial accused of accounting fraud and stock price manipulation connected to a 2015 merger of two Samsung companies.
+1,0.9999983310699463,A South Korean court also decided in June that he should be tried in separate case in which he has been accused of unlawfully using a sedative.
+1,0.9997773766517639,Lee has denied the accusations in both cases.
+1,0.9999991655349731,(Reporting by Joyce Lee, Heekyong Yang and Sangmi Cha; Writing and editing by Edwina Gibbs and Kirsten Donovan) SEOUL (Reuters)
+1,0.9999980926513672,-Samsung
+2,0.9999948740005493,Electronics is banking on Europe to maintain growth momentum in its network equipment business, a senior executive said, as 5G rollout widens and industry leader Huawei Technologies of China focuses on its domestic market.
+1,0.9999986886978149,Although the South Korean tech company is global No. 1 in memory chips and smartphones, in 5G network equipment it ranks fifth behind Huawei, Ericsson (BS:ERICAs), Nokia (NYSE:NOK) and ZTE (HK:0763) based on the latest four quarters, with a 10-15% market share in the first quarter of 2021, according to market research firm Dell'Oro Group.
+2,0.9999985694885254,But as Samsung (KS:005930) landed a $6.6 billion deal with U.S. telecoms company Verizon (NYSE:VZ) in September, followed by a deal with Japan's NTT Docomo (OTC:DCMYY) in March, "impressions have changed", Woojune Kim, executive vice president of Samsung's networks business, told Reuters in an interview on Friday.
+1,0.999997615814209,Samsung is currently conducting 5G trials with European telecom companies such as Deutsche Telekom (OTC:DTEGY) in the Czech Republic, Play Communications in Poland and another major European firm, Kim said.
+2,0.9999723434448242,Besides Europe, Samsung is also looking to expand in markets such as India, Australia and Southeast Asia, he added.
+1,0.9998762607574463,The network equipment business is small currently for Samsung, which had revenue of 236.8 trillion won ($212.50 billion) for 2020.
+1,0.9999990463256836,It does not announce separate numbers for the business and most analysts don't have estimates for it.
+2,0.9999986886978149,Samsung said since the 5G network rollouts began in 2019 in various countries, it has seen the number of new clients for its 5G equipments and systems rise by 35% a year on average.
+2,0.9999978542327881,In addition to 5G rollouts, U.S. pressure on its allies to exclude Huawei from 5G systems has provided opportunities for its competitors to expand market share.
+1,0.9996217489242554,Samsung is touting its virtualised RAN (radio access network) technology, or software that allows telecom companies to freely use off-the-shelf network equipment in various combinations to connect users to networks, saving costs and providing flexibility.
+1,0.9999926090240479,Verizon has adopted this technology for 5G RAN, while in South Korea, all operators' 5G core networks are virtualised, Samsung said, with the country's very heavy use of online services like e-commerce and food delivery compared to population size serving as a benchmark.
+1,0.9999943971633911,Samsung's goal is to become top-three in the 5G network equipment business, Kim said.
+1,0.9999990463256836,However, Kim did not give a timeframe, citing the industry's long incubation time.
+2,0.9999973773956299,"It took us about a decade to win the Verizon deal, since forming early relationships...
+2,0.9999980926513672,It takes persistence," he said.
+1,0.9999986886978149,SEOUL (Reuters) - Samsung Electronics (OTC:SSNLF) Vice Chairman Jay Y. Lee, convicted of bribery and embezzlement, has been released on parole.
+1,0.9999963045120239,But he has two other trials to face - one in which he is accused of accounting fraud and stock price manipulation and another in which he is accused of unlawfully using a sedative.
+1,0.9999980926513672,The following is a timeline of Lee's legal woes.
+1,0.5326226353645325,2016 Oct. 24: Allegations of wrongdoing by former President Park Geun-hye involving a personal confidant, Choi Seo-won, better known by her former name Choi Soon-sil, is reported by a local cable channel.
+0,0.9999804496765137,Nov. 13: South Korean prosecutors question Jay Y. Lee in a probe over the growing political scandal involving Park.
+1,0.9999990463256836,Dec. 21: A team led by a special prosecutor launches a formal criminal investigation.
+1,0.9998804330825806,2017 Feb. 17: Lee is arrested, accused of paying bribes to organisations controlled by Choi to secure support for a merger of two Samsung (KS:005930) affiliates that was widely seen as designed to cement his control of the Samsung conglomerate.
+1,0.9924684166908264,Feb. 28: Samsung Group dismantles its corporate strategy office amid accusations that Lee worked with the office to bribe Park via Choi.
+1,0.999998927116394,Feb. 28: South Korean prosecutors indict 17 people including Lee over the scandal.
+1,0.9999823570251465,Aug. 25: The Seoul Central District Court sentences Lee to five years in prison for bribery, hiding assets abroad and embezzlement.
+1,0.958268404006958,2018 Feb. 5: Lee is released from jail after an appeals court cut his sentence to two and a half years and suspended the sentence for four years.
+2,0.9999927282333374,Lee's attorney says he will appeal to the Supreme Court to try to overturn the conviction.
+1,0.9999980926513672,2019 Aug. 29: South Korea's Supreme Court sends Lee's case back to the appellate Seoul High Court for review, saying its interpretation of what constituted bribes was too narrow.
+2,0.9999945163726807,2020 Jan. 9: Samsung Group sets up an anti-corruption panel headed by a former supreme court judge to improve compliance and prevent violation of governance rules.
+1,0.9999958276748657,May 6: Lee makes a public apology over controversies in succession plans at Samsung and says he will not hand over management rights to his children.
+1,0.999768078327179,Sept. 1: Prosecutors indict Lee and 10 others, accusing them of accounting fraud and stock price manipulation in connection with a 2015 $8 billion merger of two Samsung affiliates.
+1,0.9999990463256836,2021 Jan. 18: The Seoul High Court sentences Lee to two and a half years and he returns to prison.
+1,0.9999988079071045,March 19: Lee receives emergency surgery for a burst appendix and is hospitalised until April 15 when he returns to prison.
+1,0.9976280331611633,March 26: A South Korean independent panel recommends prosecutors stop probing Lee over an allegation of unlawful use of a sedative.
+1,0.9999982118606567,April 22: Trial in which he is accused of accounting fraud and stock price manipulation begins.
+2,0.9999985694885254,June 4: Prosecutors seek a 50 million won ($43,670) fine for Lee over the alleged unlawful use of the sedative.
+2,0.9959887862205505,June 29: A court orders Lee stand trial for the sedative use.
+2,0.9999479055404663,Aug. 9: Parole for Lee is approved.
+1,0.9999990463256836,Aug. 13: Lee is released from Seoul Detention Center on parole.
+1,0.9999990463256836,Sept. 7: Trial over his sedative use is scheduled to begin.
+1,0.9999985694885254,SEOUL (Reuters) - With bated breath, management at Samsung Electronics (OTC:SSNLF) is waiting to see if the conglomerate's leader, Jay Y. Lee, will be released on parole this month.
+2,0.46135684847831726,Support for his parole, both political and amongst the public, has grown amid anxiety that key strategic decisions are not being made at the South Korean tech giant.
+2,0.8731856346130371,If he is released, Samsung (KS:005930) would be able to move forward with major investment and M&A projects - decisions company sources say should only be made by Lee who has been unable to address them while he sits in jail convicted of bribery and embezzlement.
+1,0.9999979734420776,In particular, a decision on the location of a $17 billion U.S. plant to produce advanced logic chips awaits his return, four Samsung sources told Reuters on condition of anonymity.
+1,0.9999983310699463,"The word is that the U.S. investment will be finalised when Vice Chairman Jay Y. Lee is back," said one of the people.
+1,0.9999988079071045,Kinam Kim, head of chips and components at Samsung and one of the firm's three co-CEOs, made a rare direct appeal to President Moon Jae-in in June, arguing Lee's return was crucial.
+1,0.9999986886978149,"Semiconductors need large investment decisions and the decisions can only be made quickly when the head of the conglomerate is present," Moon's office quoted Kim as saying.
+1,0.9999990463256836,Lee served one year of an initial 5-year sentence from August 2017 which was later suspended.
+1,0.9999983310699463,That court decision was overturned and the sentence revised to 30 months https://www.reuters.com/article/us-samsung-elec-heir-idUSKBN29M0PQ, putting him back in jail in January this year.
+1,0.999998927116394,Having served some 18 months, he has just become eligible for release.
+2,0.9999984502792358,The Justice Ministry last month eased parole eligibility guidelines for first-time offenders with good behaviour like Lee to 60% of sentence term served.
+0,0.8830176591873169,The average eligible time for all criminals in South Korea was 80% prior to the easing.
+1,0.9999982118606567,Lee's parole is expected to be reviewed on Aug. 9, and within Samsung hopes are high that he will be freed around Aug. 15 when the country celebrates Independence Day and pardons have traditionally been issued, three of the Samsung sources said.
+1,0.9999991655349731,The Justice Ministry and Samsung declined to comment.
+1,0.9999983310699463,If paroled, Lee would need the Justice Minister to approve his return to work as the law bars persons from working for companies involved in certain convictions for five years.
+1,0.9999986886978149,He is likely to get that, legal experts say, as the amount deemed embezzled has been repaid.
+2,0.9978458881378174,While there have been some protests against an early release for Lee and civic groups have voiced opposition, public support for his early release is at about 70%, according to two polls.
+1,0.9999977350234985,A parliamentary committee leader has also voiced his support while other members of the ruling party have visited Samsung's chip complex noting that Lee is eligible for parole.
+1,0.9999970197677612,Support on social media ranges from those who think he has already paid his dues while others fret that without Lee at the helm, South Korea's flagship conglomerate will fall behind competitors at a time when there is a global chip shortage and rivals like TSMC and Intel Corp (NASDAQ:INTC) are making large investments https://www.reuters.com/article/us-tsmc-investment-plan-idUSKBN2BO3ZJ.
+1,0.9999988079071045,CASH PILE AWAITS USE South Korea's biggest conglomerates are still owned and controlled by their founding families and there is little precedence for handing over the reins to non-family members even when a senior family member has been jailed.
+1,0.9999983310699463,On one hand, Samsung's day-to-day operations have been little affected by Lee's stints in prison.
+2,0.9999985694885254,Operating profit in the latest quarter surged 54% and while he was jailed in 2017, Samsung reported its second-largest annual profit of 53.6 trillion won ($46.6 billion).
+1,0.9999966621398926,But experts say Samsung's organisational structure makes it difficult for anyone besides Lee to sign off on strategic decisions that draw on cash pooled from its three main divisions - mobile, consumer electronics and chips. "
+1,0.9999934434890747,Realistically, risky strategic decisions like M&A, multibillion dollar deals, are left to the owner at Samsung," said Jaeyong Song, professor at Seoul National University and author of "The Samsung Way", a book about Samsung's management style.
+1,0.9999969005584717,"CEOs in Korea are more like chief operating officers in a way.
+1,0.9999901056289673,They take care of the short-term profits, while the owner takes on long-term competitiveness because their tenure is for life.
+1,0.9999983310699463,"
+0,0.9999892711639404,Analysts have also linked Lee's legal troubles to Samsung's huge pile of cash, which has swollen 57% over four years to stand at just under $100 billion as of end-June, noting it has not made a major acquisition since 2016.
+0,0.9999752044677734,Chief Financial Officer Choi Yoon-ho told an earnings briefing in January the increase was mainly due to Samsung's inability to "execute meaningful M&A activities".
+2,0.9999984502792358,In addition to the decision on the planned U.S. chip factory - which has come down to Austin, Texas which is widely seen as the favoured location, another area in Texas, New York or Arizona - Lee's return would likely trigger potential acquisitions of stakes in companies, analysts said.
+2,0.9997803568840027,NXP Semiconductors NV (NASDAQ:NXPI), a Dutch maker of automotive chips with a market value of about $58 billion, has often been cited by analysts as a good fit for Samsung's strategic needs and a likely target.
+1,0.9999990463256836,NXP declined to comment.
+1,0.9999979734420776,Samsung SDI is considering an investment of at least $3.5 billion in the United States to produce batteries for electric vehicles, but a final decision will rest with a task force for the wider Samsung group and is unlikely to be made before the chip plant decision, one of the sources said.
+1,0.999998927116394,Micron Technology: Is Samsung Electronics A Competitor Or Ally?
+1,0.9999988079071045,Jul. 09, 2020 1:25 PM ETMicron Technology, Inc. (MU), SSNLF31 Comments17
+1,0.999994158744812,Likes
+1,0.9999984502792358,Summary Micron Technology recently announced its FY Q3 earnings, followed a few weeks later by Samsung Electronics providing guidance for CY Q2.
+2,0.9999984502792358,Over the past several years, positive (or negative) earnings of one company resulted in positive (or negative) stock activity by all companies.
+2,0.9999969005584717,Memory companies will spend $50 billion to differentiate their products to gain customers, yet stock activity have been moving in tandem.
+1,0.9999991655349731,DRAM and NAND charts presented in this article show significant financial differences.
+1,0.999998927116394,For investors, this raises the question of whether memory companies should be gauged as competitors or allies.
+1,0.9999990463256836,This idea was discussed in more depth with members of my private investing community, Semiconductor Deep Dive.
+2,0.9999977350234985,Get started today » Samsung Electronics (OTC:SSNLF) on July 7, 2020, announced its preliminary earnings guidance for the second quarter, reporting operating profit of 8.1 trillion won and beating consensus of 6.5 trillion won.
+2,0.9999986886978149,The company forecast it would post an operating profit for Q2, up 22.7% YoY and 25.6% QoQ.
+2,0.9999955892562866,The upbeat earnings guidance was announced before the U.S. market opened on July 7.
+0,0.9999994039535522,Nevertheless, Micron Technology’s (MU) stock opened at $50.53 and dropped throughout the day, closing down 3.6%.
+0,0.9999969005584717,Evidently, the market wasn’t impressed by Samsung’s upbeat preannouncement, because Samsung itself was down 3.8%, as was fellow Korean memory company SK Hynix (OTC:HXSCL), which was down 2.9%.
+0,0.9999995231628418,Incidentally, the Korean stock market Kospi was down 1.5%, as was Nasdaq, down 1.0%.
+1,0.9999988079071045,Market sentiment has collectively grouped the three companies together.
+0,0.9999983310699463,In other words, good news/bad news coming from Samsung or SK Hynix or Micron has resulted in comparable stock reaction among all three companies, as indicated by the activity on July 7.
+1,0.9999990463256836,Comparison of Long-term Stock Performance Chart 1 shows the market activity of MU, Samsung, and SK Hynix over a five-year period.
+2,0.9999983310699463,While MU has outperformed the others, growing 182% over the period vs. 105% for the others.
+1,0.998611569404602,Chart 1 – 5 year stock results Over this period, peaks and valleys on these charts are in synchronization, indicating that the stocks reacted to good or bad news in concert.
+1,0.9999986886978149,I discussed the at length in an Aug. 2, 2018, Seeking Alpha “Semiconductor Memory Companies Are Actually Competitors Of Each Other Not Allies.”
+1,0.9999990463256836,Comparison of Financials In the following charts I’ve included data for Micron and Samsung, excluding SK Hynix since there's no up-to-date guidance.
+1,0.9497199058532715,Data are for a five-year period on a quarterly basis and includes CY 2Q preliminary (Samsung) and actual (Micron – FY 3Q), and estimated for CY Q3 for both.
+2,0.9999986886978149,Chart 2 shows DRAM bit shipments, clearly showing Micron’s stronger growth.
+1,0.9999985694885254,Micron’s 1y and 1z nodes together now make up more than 50% of its bit production.
+2,0.9999977350234985,Importantly, Micron continues to make progress on its 1a node, which I expect to introduce in fiscal 2021.
+2,0.9999986886978149,Micron’s DRAM bit shipments expanded significantly QoQ, driven by rapid work-from-home infrastructure deployment, as well as increased 5G deployment, particularly in Asia.
+2,0.9999985694885254,5G is expected to drive smartphone unit sales growth, and along with it higher memory and storage content.
+1,0.964296817779541,I discussed in a June 2, 2020, Seeking Alpha article entitled “Micron's 40% Equipment Spend Cut - Whom It Will Hurt Most?”
+1,0.9999960660934448,that 5G phones have 6 gigabyte of DRAM and 64 and 128 gigabyte of NAND vs. 4G phones with 2 to 4 gigabyte of DRAM and 32 to 64 gigabyte of NAND.
+1,0.9999990463256836,Readers can view DRAM and NAND charts in my Semiconductor Deep Dive article by the same name and date.
+2,0.9999986886978149,The strong growth in bit shipments was mitigated by a slow PC market, and Micron strategically moved supply of compute DRAM to address demand in the data center market.
+2,0.9998620748519897,Samsung cut its 2000 investment plans by lowering DRAM capacity investment at the second Pyeongtaek plant from 45,000 wafers/month to 30,000.
+1,0.9999984502792358,Chart 2 Chart 3 Chart 4 shows DRAM revenue for the two companies.
+1,0.9999990463256836,FYQ3 DRAM revenue was $3.6 billion, representing 66% of total revenue.
+2,0.9999986886978149,DRAM revenue increased 16% sequentially and 6% year-over-year.
+2,0.9999979734420776,Micron’s DRAM sales grew significantly QoQ, primarily due to the work-from-home and e-learning economy and significant increases in e-commerce activity around the world.
+0,0.9983722567558289,Samsung's revenues should be flat QoQ in Q3, as increased bit shipments were moderated by decreasing ASPs in Chart 3.
+1,0.9999990463256836,Chart 4 Investor Takeaway
+2,0.9999980926513672,According to Micron Technology's 10-K: "We face intense competition in the semiconductor memory and storage markets from a number of companies, including Intel; Samsung Electronics Co., Ltd.; SK Hynix Inc.; Toshiba Corporation; and Western Digital Corporation.
+2,0.7445573210716248,Astute investors recognize that these companies compete for customers.
+1,0.9999990463256836,This is why they are all moving to a greater number of 3D NAND layers, or smaller DRAM dimensions moving from 1xnm to 1ynm to 1anm.
+1,0.999997615814209,These transitions command huge sums of capex money for plants and equipment.
+1,0.999998927116394,In 2020, I forecast that memory companies will spend $50 billion in 2020.
+1,0.9999985694885254,Charts 2-4 compare recent results from Micron and Samsung for DRAM and NAND, showing that there are significant differences in each topic, it appears it makes no difference to investors, as illustrated in Chart 1.
+1,0.999998927116394,Long-term investors (5 years in Chart 1) will see that the differences are country dependent – Micron in the U.S. Nasdaq exchange outperformed, but there was almost no difference in stock growth between Samsung and SK Hynix in Korea’s Kospi exchange.
+1,0.9999990463256836,This article shows data for DRAM.
+1,0.9999990463256836,My Semiconductor Deep Dive newsletter also includes NAND data.
+1,0.9999985694885254,This free article presents my analysis of this semiconductor sector.
+1,0.9999991655349731,A more detailed analysis is available on my Marketplace newsletter site Semiconductor Deep Dive.
+1,0.9999988079071045,You can learn more about it here and start a risk free 2 week trial now.
+1,0.9999217987060547,Micron: Competitive DRAM But Underperforming NAND (A Comparison With Samsung) Nov. 02, 2020 2:30 PM ETMicron Technology, Inc. (MU), SSNLF64 Comments23 Likes
+1,0.999998927116394,Summary
+2,0.9999984502792358,In a comparison of financial results, Micron Technology's DRAM financials were competitive with Samsung Electronics, but NAND financials underperformed.
+1,0.9999988079071045,The acquisition of Intel's NAND business by memory peer SK Hynix will relegate Micron to last place in the NAND sector with just a 12% share.
+2,0.9999986886978149,Samsung's move to EUV lithography for DRAM production will generate more profitable operating margins than Micron's DUV with multiple processing.
+1,0.9999990463256836,This idea was discussed in more depth with members of my private investing community, Semiconductor Deep Dive.
+2,0.9999984502792358,Get started today » Samsung Electronics (OTC:SSNLF) just reported its Q3 2020 earnings, reporting that for its NAND business mobile demand and SSD sales for new game consoles increased.
+2,0.9999985694885254,Its DRAM business topped bit growth guidance by actively addressing mobile and PC demand using its strategy of maintaining a flexible product mix.
+1,0.995502769947052,The memory market is continually evolving and advancing.
+1,0.999998927116394,In addition to new device technologies and new fabrication facilities, the dynamics of the industry are changing.
+1,0.9999979734420776,The proposed acquisition of Intel’s (INTC) NAND business by Korea’s memory manufacturer SK Hynix (OTC:HXSCL).
+1,0.9999973773956299,The announcement that Western Digital (WDC) is reorganizing and creating separate product business units for the Flash and HDD businesses.
+1,0.9999964237213135,The emergence of China’s 3D NAND maker YMTC into the mix.
+1,0.9999977350234985,These topics amplify an already competitive environment that I discussed in an Aug. 1, 2018, Seeking Alpha article entitled “Semiconductor Memory Companies Are Actually Competitors Of Each Other Not Allies.”
+1,0.9999986886978149,In this article, I want to compare NAND data from Samsung and Micron Technology (MU) going back to Q1 2016.
+0,0.9999786615371704,NAND performance is significantly weaker than SSNLF even before these three above dynamics are factored.
+2,0.9999985694885254,Micron’s performance against SSNLF has been strong in DRAM, competing in an oligopoly of just two competitors.
+1,0.9999990463256836,In my Marketplace Deep Dive Semiconductor newsletter, I also discuss DRAM, and I urge readers to view the article.
+1,0.9999982118606567,In previous articles, I also presented financial data on SK Hynix, but at the time of this writing, the company is a week behind its historic timing of its earnings call.
+1,0.9999991655349731,Thus, this article will focus just on Samsung and Micron.
+1,0.9999966621398926,NAND – Underperform Showing for Micron Table 1 presents a comparison of the 3D NAND market by company.
+1,0.999998927116394,Interestingly, SK Hynix’s NAND capacity is 3X that of Intel’s, but the two exhibit similar sales.
+1,0.9999967813491821,Intel specializes in high-end enterprise SSDs while Hynix focuses on low-value-added products, according to our report entitled "The Hard Disk Drive (HDD) and Solid State Drive (SSD) Industries: Market Analysis And Processing Trends."
+2,0.9999587535858154,Micron recorded NAND bit growth of just 1% QoQ while Samsung registered an 18% change, as shown in Chart 1.
+2,0.9999974966049194,Chart 1 Unlike Micron, Samsung’s 2H 2020 NAND business has been more profitable with its 128-layer 3D NAND production ramp-up generating an OPM of over 20%, as shown in Chart 2.
+1,0.9999990463256836,Micron began volume shipping 128-layer replacement gate-based NAND in FY 3Q2020.
+1,0.9997385144233704,This may have contributed to lower OPM during the conversion.
+1,0.999998927116394,The company continues to expect RG to be a meaningful portion of its NAND supply by the end of CY 2020.
+0,0.999997615814209,Chart 2 Micron recorded NAND ASP down 9% QoQ while Samsung recorded NAND ASP down 8% in the same period, as shown in Chart 3.
+1,0.9999991655349731,ASPs are nearly identical for the two companies.
+1,0.999998927116394,Chart 3 Micron’s NAND revenue of $1.530B in FY 4Q2020, which was -8% QoQ but +27% YoY, as illustrated in Chart 4.
+2,0.9999985694885254,Samsung’s DRAM revenues reached 6,181 KRWB compared to 5,751 in Q2 and 4,780 a year ago, representing QoQ growth of +7% and YoY growth of +29%.
+1,0.9999990463256836,Chart 4 Investor Takeaway Samsung Electronics is the revenue leader in DRAM and NAND with a 44% and 34% share in Q2 2020, respectively.
+2,0.9999986886978149,Samsung attributed its upbeat performance in its chip business that benefited from rush orders from Huawei Technologies Co. over U.S. sanctions despite a decline in memory prices.
+2,0.9999980926513672,Rush orders from Huawei, the world's top telecom equipment maker and No. 2 smartphone producer, helped both DRAM and NAND flash memory businesses.
+0,0.9999982118606567,Following the imposition of sanctions, Samsung stated in a conference call held on Oct. 29 that despite strong demand for laptops and mobile phones, memory demand in the fourth quarter will continue to weaken as customers make inventory adjustments.
+1,0.9999988079071045,Micron’s business is 75% DRAM and 25% NAND, with the vast majority of their profits coming from the DRAM business.
+1,0.9999990463256836,SK Hynix's overall revenue is similar - its DRAM business accounted for 72% of total revenue, and NAND Flash only accounted for 24%.
+1,0.9997981190681458,I see three headwinds for Micron: Samsung is the first to adopt EUV in DRAM production to overcome challenges in DRAM scaling.
+2,0.9999984502792358,EUV technology reduces repetitive steps in multi-patterning and improves patterning accuracy, enabling enhanced performance and greater yields as well as shortened development time.
+2,0.9999963045120239,These factors will impact OPM, as Samsung’s DRAM business has been more profitable, with OPM over 30%.
+1,0.9857890009880066,Washington-Beijing tensions and the coronavirus pandemic have created uncertainty, and the company expects to feel the impact of the tighter U.S. restrictions on Huawei in the current and next quarters.
+1,0.9999972581863403,The acquisition of Intel’s NAND will see SK Hynix leapfrog Japan's Kioxia and Western Digital into third place with a NAND market share of more than 23%.
+1,0.9999991655349731,That leaves Micron at the bottom of the supplier share at 12%.
+1,0.9976061582565308,Micron Technology: Comparing Performance To Samsung Electronics And SK Hynix Apr. 30, 2020 3:20 PM ETMicron Technology, Inc. (MU)HXSCL, SSNLF15 Comments26 Likes Summary NAND revenue growth and ASP recovery for Micron Technology, Samsung Electronics, and SK Hynix continued in Q1 2020 despite COVID-19 headwinds.
+0,0.9999996423721313,Q1 CY2020 performance was impacted by strong server and PC demand due to work/study at home, while smartphone sales were weak.
+2,0.9999986886978149,We will continue to see strong server demand in 2H 2020 as well as strong smartphone sales due to 5G incorporation.
+1,0.9999990463256836,This idea was discussed in more depth with members of my private investing community, Semiconductor Deep Dive.
+1,0.9999986886978149,Get started today »
+1,0.9999852180480957,SK Hynix (OTC:HXSCL) and Samsung Electronics (OTC:SSNLF) both announced Q1 CY2020 earnings.
+1,0.9999905824661255,Micron Technology (MU) had previously announced its Q3 FY2020 earnings ending February 2020 a month earlier.
+1,0.9997959733009338,This article compares performance for the three companies for the period Q1 CY2016 through Q1 CY2020.
+0,0.9999986886978149,Memory Prices, Shipments, and ASPs Micron's total revenue for the second quarter and first six months of FY2020 decreased 18% and 28%, respectively, as compared to the corresponding periods of 2019 primarily due to price declines resulting from imbalances between supply and market demand over the last several quarters.
+2,0.9999986886978149,The company's overall gross margin percentage increased to 28% for the second quarter of 2020 from 27% for the first quarter of 2020 primarily due to increases in NAND margins as a result of higher average selling prices.
+1,0.9999011754989624,SK's consolidated revenue for the first quarter of 2020 was 7.20 trillion won while the operating profit amounted to 800 billion won, and the net income 649 billion won.
+1,0.9999977350234985,Operating margin for the quarter was 11% and the net margin was 9%.
+2,0.9999986886978149,Despite abrupt changes of external business conditions due to COVID-19, its first quarter revenue and operating income increased by 4% and 239% quarter-over-quarter (QoQ) respectively, driven by increased sales of server products, yield rates improvement, and cost reduction.
+2,0.9999984502792358,For Samsung's first quarter, the semiconductor business recorded an operating profit of 3.99 trillion won, adding 60 billion won from the previous quarter and 180 billion won from a year earlier.
+2,0.999985933303833,Revenue came to 17.64 trillion won, down 2 percent on quarter but up 17 percent on year.
+2,0.9999986886978149,The Memory Business saw solid demand in the period, despite weak seasonality and the effects of COVID-19, thanks to continued investments in 5G infrastructure and increased demand from cloud applications related to remote working and online education.
+1,0.9999977350234985,NAND Performance Chart 1 shows NAND revenue for the three companies from Q1 2016 through Q1 2020.
+2,0.9999986886978149,Micron's sales of NAND products for the second quarter of 2020 increased 6% from the first quarter of 2020 primarily due to increases in average selling prices as a result of improved market conditions.
+2,0.9999982118606567,For NAND Flash, SK will increase the sales portion of 96-layer NAND Flash and start mass production of 128-layer products in the second quarter of this year.
+2,0.9999986886978149,Additionally, SK Hynix will expand sales proportion of SSD products which already reached 40% among its NAND Flash sales in the first quarter, and diversify its portfolio with PCIe SSDs for data centers to improve profitability.
+2,0.9999985694885254,Samsung's mobile demand also remained relatively solid for NAND flash, thanks to customers' growing use of high-density storage.
+1,0.999998927116394,Inventory level stayed stable in the first quarter.
+1,0.9999990463256836,NAND flash has maintained a normal inventory level since the end of last year.
+0,0.9998377561569214,Chart 1 Micron's NAND bit shipments decreased 2% (Chart 2) offsetting increases in average selling prices of 9% (Chart 3).
+2,0.9999986886978149,For SK's NAND Flash, the favorable demand for server solid-state drives (SSDs) led to a 12% increase of bit shipments (Chart 2) and a 7% increase of average selling price QoQ respectively (Chart 3).
+2,0.9399167895317078,Samsung's NAND flash bit growth declined by a low single-digit-percentage (Chart 2) while ASP gained by a mid-single-digit percentage (Chart 3).
+1,0.9999990463256836,Chart 2 Chart 3 Investor Takeaway
+0,0.9999991655349731,The total lockdown that began in China has caused the collapse of sales of smartphones, consumer electronics, and automobiles.
+1,0.9999878406524658,In contrast, the work/study from home trend though has led to opportunities in other areas and we see PCs, datacenters, and the Internet as beneficiaries.
+1,0.999998927116394,The worst still lies ahead for companies with exposure to smartphones, consumer electronics, and automobiles in Europe and North America.
+1,0.9999939203262329,However, opportunities lie ahead for companies with heavy exposure to China (as that region recovers first) and also for companies exposed to PCs, datacenter, and Internet services.
+0,0.9999994039535522,The data I presented above for Q1 CY2020 were impacted by strong server and PC demand due to work/study at home, while smartphone sales were weak.
+2,0.9999985694885254,I expect that 2H 2020 will continue to see strong server demand as well as strong smartphone sales due to 5G incorporation.
+0,0.9999992847442627,PCs will drop.
+1,0.9999991655349731,In other words, the memory market will continue to recover in 2020.
+1,0.9607083201408386,Memory chip growth will be in low single digits tied to increases in ASPs.
+0,0.9999969005584717,Logic and microprocessors will be down.
+1,0.9999933242797852,In fact, I noted back on March 16, 2020, in a Seeking Alpha article entitled "Micron Technology: Watch For Cloud Server Boom Amplified By COVID-19," that: The COVID-19 epidemic has unexpectedly breathed life into the server market, decimated in 2019, which stretches from virtual meetings, online education, digital healthcare, cybersecurity, telecommunications, logistics to smart cities.
+2,0.9999984502792358,Server capex spend grew just 5.8% in 2019, following a 48.7% increase in 2018.
+2,0.97713702917099," DRAM demand for servers will exhibit a CAGR (compound annual growth rate) of 17.5% between 2018 and 2021, according to our report entitled "Hot ICs:
+1,0.9999991655349731,A Market Analysis of Artificial Intelligence, 5G, CMOS Image Sensors, and Memory Chips.
+1,0.9999990463256836," One of the drivers for memory recovery will be ASPs.
+1,0.9999895095825195,I had shown previously in Chart 3 that a recovery is underway in ASPs.
+1,0.999998927116394,Chart 4 shows a composite of ASPs for spot prices for 8Gb DDR4 DRAM and 512Gb NAND on a weekly basis.
+1,0.9999972581863403,Both show recovery at the end of 2019, which has been mitigated by COVID-19 for the past month.
+1,0.9999990463256836,Chart 4 A more extensive analysis of this article, including DRAM data, can be viewed in my Semiconductor Deep Dive newsletter available on Seeking Alpha's Marketplace.
+1,0.9999985694885254,This free article presents my analysis of this semiconductor sector.
+1,0.9999991655349731,A more detailed analysis is available on my Marketplace newsletter site Semiconductor Deep Dive.
+1,0.9999988079071045,You can learn more about it here and start a risk-free 2-week trial now.
+1,0.9999979734420776,By Joyce Lee SEOUL (Reuters) -
+1,0.6368837952613831,From sanitising closets to customisable fridges, the coronavirus pandemic has fanned demand for home appliances - so much so that Samsung Electronics (OTC:SSNLF) Co Ltd (KS:005930) is adding warehouses and bringing popular products to more markets.
+2,0.8789252638816833,In particular, consumers have been willing to splurge on products that make their homes cleaner.
+2,0.9999985694885254,In Brazil and other emerging economies, households which once relied on maids are now investing in dishwashers and robot vacuum cleaners, while Samsung says its overseas sales of air purifiers jumped more than five times in January-July compared to the same period last year.
+2,0.9999986886978149,Samsung's AirDresser, a closet that steam cleans clothes and kills bacteria, has seen a spike in sales with British furniture firm Lux Group ordering 1,000 earlier this year.
+2,0.9999983310699463,Big fridges have also climbed in popularity as people cooking more often at home seek more freezer space.
+2,0.9999985694885254,"Sales are doing well in all but a few countries," Lee Jae-seung, executive vice president of Samsung Electronics' digital appliance business, told Reuters in an interview.
+1,0.9999983310699463,He said factories for Samsung's appliances business in the United States, Mexico, Poland, India and other countries were running at full capacity and the company was seeking more warehouse space in the United States, South Korea and Europe.
+1,0.9996644258499146,"There was a lot of pent-up demand in the U.S and elsewhere," Lee said.
+1,0.9994078874588013,He added that many consumers seemed willing to spend money they might have otherwise used on trips and outdoor activities to upgrade their household interiors.
+2,0.9999986886978149,In its home market, Samsung's "Bespoke" refrigerators drove its fridge sales up 30% in the first half from the same period a year ago.
+1,0.999998927116394,The fridges, which come in a wide range of compartment sizes, panel types and colours that can be mixed and matched, were launched in China and Russia this year and will be sold in northern Europe from October.
+2,0.9999984502792358,Samsung does not disclose home appliance earnings, but according to UBS, its home appliance business made an operating profit of 337 billion won ($284.48 million) in the April-June quarter, up about 30% from a year earlier according to Seoul-based KTB Securities.

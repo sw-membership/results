@@ -1,0 +1,19 @@
+2,0.9999985694885254,Samsung Electronics (005930) BUY (Mainain) stock price (8/3) 81,400 won target stock price 105,000 won Semiconductor Analyst Park Yooak 02)3787-5063/yuak.pak@kiwoom.com's 3Q21 operating profit is expected to exceed market expectations at 16.7 trillion won.
+2,0.9999983310699463,This is because the price growth rate of DRAM and NAND exceeds market expectations, and contract prices in the foundry sector are expected to rise in part.
+2,0.9999978542327881,Although stock price adjustments have continued for a long time due to increased customer inventory, expectations for a recovery in the memory semiconductor industry next year will begin to be reflected in stock prices.
+2,0.9999974966049194,Stock Data KOSPI (8/3) 3237.14pt market capitalization of 48594 billion won.
+1,0.9999988079071045,52 share price trends.
+2,0.662606418132782,-12.9% vs. 46.9%
+2,0.9999986886978149,In addition to Samsung Life Insurance, a major shareholder of BPS (21.E) 44,462 won, the company is expected to grow significantly from the previous quarter to 73.3 trillion won (+15%QoQ) and 16.7 trillion won (+33%QoQ) in sales.
+2,0.9999986886978149,In the case of DRAM, sluggish shipments (+1%QoQ) are expected due to a lack of inventory held, but prices will rise +9%QoQ, leading to earnings growth.
+2,0.9999985694885254,NAND's price will rise +7% QoQ, and cost/bit savings will be reflected due to the full-scale mass production of 128 stages.
+2,0.9999986886978149,The non-memory sector is also expected to increase shipments as demand enters the peak season, and the price of foundry contracts with some customers is expected to rise.
+2,0.9999985694885254,IM and CE, the set division, are expected to perform well in the second half of the year due to entry into the peak demand season, growth in performance due to the launch of new products, and sales of new smartphones such as Samsung Electronics and Apple.
+0,0.999332845211029,Need to raise the market eye level for demand The inventory levels of DRAM suppliers and customers move differently, causing confusion among market participants.
+2,0.9999527931213379,Suppliers' inventory fell to the beginning and second half of the week, far below the average level (4 to 5 weeks), while customers' inventory increased significantly to 7 to 9 weeks.
+0,0.9999977350234985,Market participants are concerned that the increased inventory of customers will increase the pressure on DRAM to fall prices, but no clear circumstances have been seen for price declines yet.
+2,0.9999821186065674,In order to cope with strong demand growth centered on mobile and servers, investment in new factories by memory semiconductor companies, including Samsung Electronics' P3 (Pyeongtaek 3rd), is expected to begin in earnest.
+2,0.9987509250640869,We believe that it is necessary to further increase our view of demand.
+1,0.9999959468841553,(One billion won, linked to IFRS)
+1,0.9999983310699463,2019
+1,0.9999984502792358,2021F 2022F 2023F
